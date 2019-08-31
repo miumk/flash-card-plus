@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FlashCardPlus</string>
+
+    <string name = "sing_title">sing</string>
+    <string name = "sing_content">・It is your time to sing.\n・She likes singing.</string>
+    <string name = "sing_meaning">声、歌う</string>
+
+    <string name = "angry_title">angry</string>
+    <string name = "angry_content">・He was very about her.\n・Her face was red because she was angry.</string>
+    <string name = "angry_meaning">怒る</string>
+
+    <string name = "run_title">run</string>
+    <string name = "run_content">・She likes running because she is fast.\n・He is running away from the goast.</string>
+    <string name = "run_meaning">走る</string>
+
+    <string name = "teacher_title">teacher</string>
+    <string name = "teacher_content">・He is a good teacher.</string>
+    <string name = "teacher_meaning">先生</string>
+
+    <string name = "think_title">think</string>
+    <string name = "think_content">・I think that it is wrong.</string>
+    <string name = "think_meaning">考える</string>
+
+</resources>
+
